@@ -116,25 +116,25 @@ The dataset contains information on:
 
 ### Executive Summary
 
-![Executive summary.png](<attachment:Executive summary.png>)
+![Executive Summary](Executive%20summary.png)
 
 ---
 
 ### Product Analysis
 
-![Product performance.png](<attachment:Product performance.png>)
+![Product Performance](Product%20performance.png)
 
 ---
 
 ### Category Analysis
 
-![Category analysis.png](<attachment:Category analysis.png>)
+![Category Analysis](Category%20analysis.png)
 
 ---
 
 ### Customer Insights
 
-![Customer voice.png](<attachment:Customer voice.png>)
+![Customer Voice](Customer%20voice.png)
 
 ---
 
